@@ -1,0 +1,9 @@
+{
+  "name": "juicefs-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-git-server": "^1.0.0-beta.30"
+  }
+}
